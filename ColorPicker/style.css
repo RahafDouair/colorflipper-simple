@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 50px;
+    background: #4c4c4c;
+    color: white;
+}
+.list-nav{
+    list-style: none;
+}
+.change-color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px;
+    margin-left:30px
+}
